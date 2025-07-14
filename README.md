@@ -6,10 +6,6 @@ This is a WIP migration of [MCL](https://github.com/jmamma/mcl) from the ATmega2
 
 Port is now complete.
 
-- [X] Platform.txt -> Makefile translation
-  - Code can be compiled independently of the Arduino IDE
-  - Correct linking of arduino-pico, pico-sdk and related libraries
-
 - [X] VSCode + gdb + openocd SW debugger integration
   - For realtime hardware debugging
 
